@@ -4,7 +4,7 @@
 ### live site link: https://walton-pc.web.app/
 
 
-### Shot disciption
+### Shot disciptions
 
 *	WaltonPc is Manufacturing Pc Parts/Tools for Local Marketing.
 *	Verify user can order for her local company, and manage her products (quantity, delete items, adds etc) with good UX.
