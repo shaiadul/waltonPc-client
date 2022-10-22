@@ -42,7 +42,7 @@ const Review = () => {
                  {/* form part */}
                  <form onSubmit={handleReview} className='text-center mx-auto my-auto  '>
                         
-                        <input type="text"  value={user.displayName} className="font-bold input input-bordered input-info w-full max-w-xs mb-2" readOnly disabled name='username' /><br />
+                        <input type="text"  value={user?.displayName } className="font-bold input input-bordered input-info w-full max-w-xs mb-2" readOnly disabled name='username' /><br />
                         
 
                         <div className=' mb-2 rounded-3xl'>

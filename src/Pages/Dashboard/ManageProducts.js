@@ -1,9 +1,15 @@
 import React from 'react';
 import useParts from '../../hooks/useParts';
+import { mount } from 'cypress/react'
+
 
 const ManageProducts = () => {
 
-    
+    // eslint-disable-next-line no-undef
+    Cypress.Commands.add('mount', mount)
+
+
+
     const [parts, setParts] = useParts([]);
 
     // heandleDeleteProduct
