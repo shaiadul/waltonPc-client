@@ -12,7 +12,7 @@
 
 
 
-#### This is full Stack mileston project for mine, personal practise project . here an company whomeproduction pc parts manufacturing in factory ! try to simple UI / UX for this site , try to best uses technology for this project . use update firebase authentication tools for this project ! 
+#### This is full Stack mileston project for mine, personal practise project . here an company whomeproduction pc parts manufacturing in factory ! try to simple UI / UX for this site , try to best uses technology for this project . use update firebase authentication tools for this project !!
 
 fast tack somen note for creating this project by steps and steps ! wrote some point , that i could my project WaltonPc
 
