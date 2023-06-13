@@ -37,4 +37,4 @@ fast tack somen note for creating this project by steps and steps ! wrote some p
 * tostify
 * firebase hook
 * react counter
-* Heroku (for deployu)
+* Heroku (for deployu),
